@@ -26,4 +26,4 @@ Untuk gambar UI dari prototipe ada pada Screenshot dibawah.
 
 ![Screenshot 2024-01-23 232046](https://github.com/ZamiFaiz24/Prototype-Aplikasi-Gudang-Java-Netbeans/assets/152594046/3b68d81f-e414-4729-9758-f34728b3fbdc)
 
-
+## Terimakasih Sudah Mampir..😊🙏🏻🙏🏻🙏🏻
